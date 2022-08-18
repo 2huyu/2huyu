@@ -8,9 +8,9 @@
 
 <img position="absolute" align="right" alt="landscape" width="400" border-radius="10px" src="https://i.pinimg.com/originals/f3/f4/cc/f3f4ccdebad8a85ed48b1375587c0fd9.gif">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=2huyu&show_icons=true&locale=en" alt="2huyu" /></p>
+<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=2huyu&show_icons=true&locale=en" alt="2huyu" /></p>
 
-<p><img align="center" border="thick solid #0000FF" src="https://github-readme-stats.vercel.app/api/top-langs?username=2huyu&show_icons=true&locale=en&layout=compact" alt="2huyu" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2huyu&show_icons=true&locale=en&layout=compact" alt="2huyu" /></p><br>
 
 🌱 **Currently learning:**<br> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
