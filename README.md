@@ -2,7 +2,7 @@
 
 <h1 align="center" position="absolute">Welcome to my Github Profile 🌱</h1>
 <img position="absolute" align="left" src="https://komarev.com/ghpvc/?username=2huyu&label=Profile%20views&color=0e75b6&style=flat" alt="2huyu"/>
-<h3 align="left">Hi! I'm Zhuyu, also pronounced as "2yu" 🤝</h3>
+<h3 align="left" position="absolute">Hi! I'm Zhuyu, also pronounced as "2yu" 🤝</h3>
 
 <img position="absolute" align="right" alt="landscape" width="400" border-radius="10px" src="https://i.pinimg.com/originals/f3/f4/cc/f3f4ccdebad8a85ed48b1375587c0fd9.gif">
 
