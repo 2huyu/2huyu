@@ -1,4 +1,4 @@
-<p align="center"><img align="center" alt="landscape" width="750" height="300" border-radius="10px" src="https://cdnb.artstation.com/p/assets/images/images/037/263/051/original/karina-formanova-rainforest-animation.gif?1619929364"></p>
+<p align="center"><img align="center" alt="landscape" width="600" height="200" border-radius="10px" src="https://cdnb.artstation.com/p/assets/images/images/037/263/051/original/karina-formanova-rainforest-animation.gif?1619929364"></p>
 
 <h1 align="center">Welcome to my Github Profile 🌱</h1>
 
@@ -6,7 +6,7 @@
 
 <h3 align="left">Hi! I'm Zhuyu, also pronounced as "2yu" 🤝</h3>
 
-<img position="absolute" align="right" alt="landscape" width="450" border-radius="10px" src="https://i.pinimg.com/originals/f3/f4/cc/f3f4ccdebad8a85ed48b1375587c0fd9.gif">
+<img position="absolute" align="right" alt="landscape" width="400" border-radius="10px" src="https://i.pinimg.com/originals/f3/f4/cc/f3f4ccdebad8a85ed48b1375587c0fd9.gif">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=2huyu&show_icons=true&locale=en" alt="2huyu" /></p>
 
