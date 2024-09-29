@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Página-1" id="qOE7FdPZgIDqy1t8ak7k">
-    <mxGraphModel>
+    <mxGraphModel dx="840" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdbMA6WvoIB9C_Hl9uhL-14" target="QdbMA6WvoIB9C_Hl9uhL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-14" value="&lt;div&gt;Land O&#39; Lakes: processamento / fabricação&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QdbMA6WvoIB9C_Hl9uhL-16" target="QdbMA6WvoIB9C_Hl9uhL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-16" value="Shoprite: Distribuidor Atacado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QdbMA6WvoIB9C_Hl9uhL-18" target="QdbMA6WvoIB9C_Hl9uhL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-18" value="Walmart: Distribuidor Varejo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QdbMA6WvoIB9C_Hl9uhL-20" target="QdbMA6WvoIB9C_Hl9uhL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-20" value="Oracle Transportation Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-21" value="Consumidor Final" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QdbMA6WvoIB9C_Hl9uhL-23" target="QdbMA6WvoIB9C_Hl9uhL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbMA6WvoIB9C_Hl9uhL-23" value="Coleta de matéria-prima" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
